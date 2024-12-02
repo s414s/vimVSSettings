@@ -1,2 +1,2 @@
 # vimVSSettings
-Copy file in C/User/<UserName>
+Copy file to C:/User/<UserName>
