@@ -15,3 +15,6 @@ nnoremap <leader>E :vsc View.PreviousError<CR>
 
 map gi :vsc Edit.GoToImplementation<CR>
 nnoremap cia :vsc Refactor.ReorderParameter<CR>
+
+map <leader>l :tabnext<CR>
+map <leader>h :tabprevious<CR>
